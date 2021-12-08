@@ -1,0 +1,2 @@
+02-12-2021 17:09:21 SmartPermitService Method Started 02-12-2021 17:09:21
+02-12-2021 17:09:21 SmartPermitService Method Ended 02-12-2021 17:09:21

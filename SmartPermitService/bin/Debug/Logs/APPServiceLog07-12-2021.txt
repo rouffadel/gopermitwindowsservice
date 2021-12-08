@@ -1,0 +1,40 @@
+07-12-2021 17:48:15 ZatparkUpdate method was started
+07-12-2021 17:48:15 Config files read
+07-12-2021 17:48:15 Config files read
+07-12-2021 17:48:15 Before fetching sites
+07-12-2021 17:48:15 GetVisitorVehicleDetails Method Started, Class:Util
+07-12-2021 17:48:44 Error occured at GetVisitorVehicleDetails Method, Class:UtilA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+07-12-2021 17:48:44 site Fetched
+07-12-2021 17:48:44 ZatparkUpdate method was started
+07-12-2021 17:48:44 Config files read
+07-12-2021 17:48:44 Config files read
+07-12-2021 17:48:44 Before fetching sites
+07-12-2021 17:48:44 GetVisitorVehicleDetails Method Started, Class:Util
+07-12-2021 17:48:44 Error occured at GetVisitorVehicleDetails Method, Class:UtilA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+07-12-2021 17:48:44 site Fetched
+07-12-2021 17:48:49 ZatparkUpdate method was started
+07-12-2021 17:48:49 Config files read
+07-12-2021 17:48:49 Config files read
+07-12-2021 17:48:49 Before fetching sites
+07-12-2021 17:48:49 GetVisitorVehicleDetails Method Started, Class:Util
+07-12-2021 17:49:05 Error occured at GetVisitorVehicleDetails Method, Class:UtilA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+07-12-2021 17:49:05 site Fetched
+07-12-2021 17:49:10 ZatparkUpdate method was started
+07-12-2021 17:49:10 Config files read
+07-12-2021 17:49:10 Config files read
+07-12-2021 17:49:10 Before fetching sites
+07-12-2021 17:49:10 GetVisitorVehicleDetails Method Started, Class:Util
+07-12-2021 17:49:10 Error occured at GetVisitorVehicleDetails Method, Class:UtilA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+07-12-2021 17:49:10 site Fetched
+07-12-2021 17:49:15 ZatparkUpdate method was started
+07-12-2021 17:49:15 Config files read
+07-12-2021 17:49:15 Config files read
+07-12-2021 17:49:15 Before fetching sites
+07-12-2021 17:49:15 GetVisitorVehicleDetails Method Started, Class:Util
+07-12-2021 17:49:15 Error occured at GetVisitorVehicleDetails Method, Class:UtilA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+07-12-2021 17:49:15 site Fetched
+07-12-2021 17:49:20 ZatparkUpdate method was started
+07-12-2021 17:49:20 Config files read
+07-12-2021 17:49:20 Config files read
+07-12-2021 17:49:20 Before fetching sites
+07-12-2021 17:49:20 GetVisitorVehicleDetails Method Started, Class:Util

@@ -1,0 +1,44 @@
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.exe.config
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.exe
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.pdb
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\Newtonsoft.Json.dll
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\RestSharp.dll
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\Newtonsoft.Json.xml
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\bin\Debug\RestSharp.xml
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csprojAssemblyReference.cache
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.ProjectInstaller.resources
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.GenerateResource.cache
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.CoreCompileInputs.cache
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.CopyComplete
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.exe
+D:\enhanceprojects\Hemant-GoPermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.pdb
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.exe.config
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.exe
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\SmartPermitService.pdb
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\Newtonsoft.Json.dll
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\RestSharp.dll
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\Newtonsoft.Json.xml
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\RestSharp.xml
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.ProjectInstaller.resources
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.GenerateResource.cache
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.CoreCompileInputs.cache
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.csproj.CopyComplete
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.exe
+E:\GopermitWindowsService\SmartPermitService\obj\Debug\SmartPermitService.pdb
+E:\GopermitWindowsService\SmartPermitService\bin\Debug\System.Configuration.dll
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe.config
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\Newtonsoft.Json.dll
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\RestSharp.dll
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\System.Configuration.dll
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\Newtonsoft.Json.xml
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\RestSharp.xml
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.ProjectInstaller.resources
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.csproj.GenerateResource.cache
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.csproj.CoreCompileInputs.cache
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.csproj.CopyComplete
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.exe
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.pdb
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.pdb
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\System.Data.dll
+E:\Git Projects\gopermitwindowsservice\SmartPermitService\obj\Debug\SmartPermitService.csprojAssemblyReference.cache

@@ -1,0 +1,192 @@
+﻿Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+Restoring event log to previous state for source SmartPermitService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Restoring event log to previous state for source SmartPermitService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Restoring event log to previous state for source SmartPermitService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Service SmartPermitService has been successfully installed.
+Creating EventLog source SmartPermitService in log Application...
+Committing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+Removing EventLog source SmartPermitService.
+Service SmartPermitService is being removed from the system...
+Service SmartPermitService was successfully removed from the system.
+Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Service SmartPermitService has been successfully installed.
+Creating EventLog source SmartPermitService in log Application...
+Committing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+Removing EventLog source SmartPermitService.
+Service SmartPermitService is being removed from the system...
+Service SmartPermitService was successfully removed from the system.
+Installing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Service SmartPermitService has been successfully installed.
+Creating EventLog source SmartPermitService in log Application...
+Committing assembly 'E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.InstallLog
+   assemblypath = E:\GopermitWindowsService\SmartPermitService\bin\Debug\smartpermitService.exe
+   logtoconsole = 
+Installing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logtoconsole = 
+Restoring event log to previous state for source SmartPermitService.
+Installing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logtoconsole = 
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logtoconsole = 
+Restoring event log to previous state for source SmartPermitService.
+Installing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+Restoring event log to previous state for source SmartPermitService.
+Installing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+Installing service SmartPermitService...
+Creating EventLog source SmartPermitService in log Application...
+Rolling back assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+Restoring event log to previous state for source SmartPermitService.
+Uninstalling assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+Removing EventLog source SmartPermitService.
+Service SmartPermitService is being removed from the system...
+Service SmartPermitService was successfully removed from the system.
+Installing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
+Installing service SmartPermitService...
+Service SmartPermitService has been successfully installed.
+Creating EventLog source SmartPermitService in log Application...
+Committing assembly 'E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.exe
+   logfile = E:\Git Projects\gopermitwindowsservice\SmartPermitService\bin\Debug\SmartPermitService.InstallLog
